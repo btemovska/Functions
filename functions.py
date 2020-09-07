@@ -12,3 +12,5 @@ print(answer)  # 42.0
 # all functions have () after the name
 #if the function will take paremeters they're declared in parentheses
 #the parentheses are required, even when there are no parameters
+
+
