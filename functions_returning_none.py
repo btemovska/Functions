@@ -4,7 +4,7 @@ def multiply(x, y):
 
 
 def is_palindrome(string):
-    return string[::-1].casefld() == string.casefold()
+    return string[::-1].casefold() == string.casefold()
 
 def palindrome_sentence(sentence):
     string = ""
